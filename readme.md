@@ -1,3 +1,3 @@
 KuryePOC
 
-docker compose up
+To run execute docker compose up
